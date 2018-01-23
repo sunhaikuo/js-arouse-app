@@ -38,7 +38,7 @@ applink.open()
 
 #### 为什么没有 demo
 
-因为把这个页配置成`universal link`，必须使用域名直接访问， 使用`localhost`或`ip`访问，效果会很差，所以只提供源码，不提供 demo
+因为把这个页配置成`universal link`，必须使用域名直接访问，使用`localhost`或`ip`访问，效果会很差，所以只提供源码，demo 在博客中可以扫码体验。
 
 #### 技术细节及流程，请参照：[js 在微信、微博、QQ、Safari 唤起 App 的解决方案][1]
 
