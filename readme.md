@@ -42,8 +42,4 @@ applink.open()
 
 #### 技术细节及流程，请参照：[js 在微信、微博、QQ、Safari 唤起 App 的解决方案][1]
 
-```
-https://segmentfault.com/a/1190000012940046
-```
-
 [1]: https://segmentfault.com/a/1190000012940046
