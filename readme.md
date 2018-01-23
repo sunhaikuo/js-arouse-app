@@ -15,7 +15,7 @@
 
 #### 使用
 
-* 引入 `import { AppLink, IAppLink } from 'xxx'`
+* 引入 `AppLink`和`IAppLink`
 * 配置必须的信息(js 版不用添加 IAppLink 约束，其他一样)
 
 ```
